@@ -1,0 +1,6 @@
+#ifndef DPP_PYTHON_POWERLIBCPP_LIBRARY_H
+#define DPP_PYTHON_POWERLIBCPP_LIBRARY_H
+
+int calc_power(int x, int y);
+
+#endif //DPP_PYTHON_POWERLIBCPP_LIBRARY_H
